@@ -1,7 +1,4 @@
-# Re-execute after kernel reset to regenerate the README file
 
-# Create a polished README.md for the SFO Operations Analytics Project
-sfo_readme = """
 # ✈️ Passenger Flow and Operations at SFO – Operational Analytics Project
 
 **Created by:** Mahima Advilkar  
